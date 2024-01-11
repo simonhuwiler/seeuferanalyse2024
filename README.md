@@ -22,33 +22,34 @@ Die Daten dürfen für eigene Analysen und Publikationen mit Quellenhinweis weit
 ### fa (Free accessible, frei zugänglich)
 Frei zugänglich im Sinne von: Es steht kein Gebäude oder privates/abgesperrtes Grundstück zwischen Seeufer und Weg. Das Seeufer muss aber nicht hindernisfrei erreichbar sein. So zählen etwa auch Strassen direkt am See als frei zugänglich, solange diese einen Gehweg für Fussgänger aufweisen. Als frei zugänglich zählen ebenfalls Wiesen, wenn sie für das Überqueren vorgesehen sind, wie zum Beispiel bei Parks.
 
-Farbkodierung in SVG: <span style="color:#28c23f">#28c23f</span>
+
+Farbkodierung in SVG: ![#f03c15](https://placehold.co/15x15/28c23f/28c23f.png) `#28c23f`
 
 ### pa (Payed accessible, bezahlter Eintritt)
 Dies sind Seeabschnitte, die einen öffentlichen Charakter aufweisen, aber trotzdem nur oder zweitweise gegen Eintritt begehbar sind. Typischerweise Badis. Restaurants mit Seeterasse zählen nicht zu dieser Kategorie und gelten als privat (pp).
 
-Farbkodierung in SVG: <span style="color:#e9a23d">#e9a23d</span>
+Farbkodierung in SVG: ![#f03c15](https://placehold.co/15x15/e9a23d/e9a23d.png) `#e9a23d`
 
 ### ps (Public Streets & Train Tracks, Strassen und Eisenbahnlinien)
 Strassen ohne Gehweg direkt am See ebenso wie Bahngeleise fallen in diese Kategorie. Das Ufer ist eigentlich frei zugänglich, allerdings nur mit Zug oder Fahrzeug.
 
-Farbkodierung in SVG: <span style="color:#ecffc5">#ecffc5</span>
+Farbkodierung in SVG: ![#f03c15](https://placehold.co/15x15/ecffc5/ecffc5.png) `#ecffc5`
 
 ### pp (Private Property, Privat)
 Kein Seezugang. Dies sind vor allem Privatgrundstücke.
 
-Farbkodierung in SVG: <span style="color:#ec4243">#ec4243</span>
+Farbkodierung in SVG: ![#f03c15](https://placehold.co/15x15/ec4243/ec4243.png) `#ec4243`
 
 
 ### ff (Forrest, farming, moors, Wald, Landwirtschaft, Moore)
 In diese Kategorie fallen unverbaute Grundstücke, die aber nicht über einen Weg zugänglich sind. Zum Beispei Wälder, Ackerbau oder Moore. Nicht dazu zählen Landwirtschaftsflächen, wenn sie abgesperrt sind, wie etwa Weinberge.
 
-Farbkodierung in SVG: <span style="color:#dbffe4">#dbffe4</span>
+Farbkodierung in SVG: ![#f03c15](https://placehold.co/15x15/dbffe4/dbffe4.png) `#dbffe4`
 
 ### wr (Water, River, Wasser, Fluss)
 Flussmündungen und Deltas.
 
-Farbkodierung in SVG: <span style="color:#71e0f8">#71e0f8</span>
+Farbkodierung in SVG: ![#f03c15](https://placehold.co/15x15/71e0f8/71e0f8.png) `#71e0f8`
 
 
 ## Methode
