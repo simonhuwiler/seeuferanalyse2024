@@ -14,28 +14,42 @@ Die Daten dürfen für eigene Analysen und Publikationen mit Quellenhinweis weit
 * **Hochparterre**, 2024 für die Seen Genfersee, Neuenburgersee, Luganersee und Lago Maggiore sowie die Überarbeitung der obigen Seen.
 
 ## Daten
-* [Shapefiles](Daten/Shapefiles). Die Kategorie ist im Property `cat` erfasst
-* [CSV](Daten/Excel). Prozentuale Verteilung
-* [SVGs](Daten/SVG). Bilder der Seen als SVG.
+* [Shapefiles](Daten/shapefiles). Die Kategorie ist im Property `cat` erfasst
+* [CSV](Daten/csv). Prozentuale Verteilung
+* [SVGs](Daten/svg). Bilder der Seen als SVG.
 
 ## Kategorien
 ### fa (Free accessible, frei zugänglich)
 Frei zugänglich im Sinne von: Es steht kein Gebäude oder privates/abgesperrtes Grundstück zwischen Seeufer und Weg. Das Seeufer muss aber nicht hindernisfrei erreichbar sein. So zählen etwa auch Strassen direkt am See als frei zugänglich, solange diese einen Gehweg für Fussgänger aufweisen. Als frei zugänglich zählen ebenfalls Wiesen, wenn sie für das Überqueren vorgesehen sind, wie zum Beispiel bei Parks.
 
+Farbkodierung in SVG: <span style="color:#28c23f">#28c23f</span>
+
 ### pa (Payed accessible, bezahlter Eintritt)
 Dies sind Seeabschnitte, die einen öffentlichen Charakter aufweisen, aber trotzdem nur oder zweitweise gegen Eintritt begehbar sind. Typischerweise Badis. Restaurants mit Seeterasse zählen nicht zu dieser Kategorie und gelten als privat (pp).
+
+Farbkodierung in SVG: <span style="color:#e9a23d">#e9a23d</span>
 
 ### ps (Public Streets & Train Tracks, Strassen und Eisenbahnlinien)
 Strassen ohne Gehweg direkt am See ebenso wie Bahngeleise fallen in diese Kategorie. Das Ufer ist eigentlich frei zugänglich, allerdings nur mit Zug oder Fahrzeug.
 
+Farbkodierung in SVG: <span style="color:#ecffc5">#ecffc5</span>
+
 ### pp (Private Property, Privat)
 Kein Seezugang. Dies sind vor allem Privatgrundstücke.
+
+Farbkodierung in SVG: <span style="color:#ec4243">#ec4243</span>
+
 
 ### ff (Forrest, farming, moors, Wald, Landwirtschaft, Moore)
 In diese Kategorie fallen unverbaute Grundstücke, die aber nicht über einen Weg zugänglich sind. Zum Beispei Wälder, Ackerbau oder Moore. Nicht dazu zählen Landwirtschaftsflächen, wenn sie abgesperrt sind, wie etwa Weinberge.
 
+Farbkodierung in SVG: <span style="color:#dbffe4">#dbffe4</span>
+
 ### wr (Water, River, Wasser, Fluss)
 Flussmündungen und Deltas.
+
+Farbkodierung in SVG: <span style="color:#71e0f8">#71e0f8</span>
+
 
 ## Methode
 Als Basis dient die Uferküste gemäss Open Street Map. Diese wurden unverändert übernommen. Betrachtet wurden nur zusammenhängende Abschnitte, Inseln wurden entfernt.
