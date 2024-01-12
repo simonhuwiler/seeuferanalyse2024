@@ -1,6 +1,6 @@
 # Seeufer-Analyse: Wie verbaut sind Schweizer Seen?
 ## Einleitung
-Im Sommer 2018 veröffentlichte [BLICK eine Serie an Artikel über Schweizer Seeufer](https://www.blick.ch/storytelling/2018/seeanalyse/). Im Januar 2024 erweiterte [das Hochparterre-Magazin diese Analyse](https://www.hochparterre.ch/nachrichten/ineigenersache/hochparterre-im-januar-2024). Dazu wurden die Seen gemäss ihrem Verbauungsgrad kategorisiert. Diese Daten werden hier zur Verfügung gestellt.
+Im Sommer 2018 veröffentlichte [BLICK eine Serie an Artikel über Schweizer Seeufer](https://www.blick.ch/storytelling/2018/seeanalyse/). Im Januar 2024 erweiterte [das Hochparterre-Magazin diese Analyse](https://www.hochparterre.ch/nachrichten/landschaftsarchitektur/ufer-fuer-alle). Dazu wurden die Seen gemäss ihrem Verbauungsgrad kategorisiert. Diese Daten werden hier zur Verfügung gestellt.
 
 ## Lizenz
 Die Daten dürfen für eigene Analysen und Publikationen mit Quellenhinweis weiterverwendet werden.
@@ -66,7 +66,7 @@ Für die Kategorisierung wurden folgende Quellen verwendet:
 * SwissTopo: [https://wmts.geo.admin.ch/EPSG/3857/1.0.0/WMTSCapabilities.xml?lang=de](https://wmts.geo.admin.ch/EPSG/3857/1.0.0/WMTSCapabilities.xml?lang=de), `Karte swissTLM (farbig)`
 
 ##  Artikel
-* [Ufer für alle, Hochparterre](https://www.hochparterre.ch/nachrichten/ineigenersache/hochparterre-im-januar-2024)
+* [Ufer für alle, Hochparterre](https://www.hochparterre.ch/nachrichten/landschaftsarchitektur/ufer-fuer-alle)
 * [So verbaut sind unsere Seen, Blick](https://www.blick.ch/storytelling/2018/seeanalyse/)
 * [Behörden kuschen vor den Reichen, Blick](https://www.blick.ch/interaktiv/darum-sind-viele-seeufer-nicht-zugaenglich-behoerden-kuschen-vor-den-reichen-id8802484.html)
 * [Im Namen Gottes für freie Ufer, Blick](https://www.blick.ch/interaktiv/victor-von-wartburg-kaempft-fuer-offene-ufer-im-namen-gottes-fuer-freie-ufer-id8808163.html)
