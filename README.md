@@ -69,6 +69,7 @@ Für die Kategorisierung wurden folgende Quellen verwendet:
 ### 2024
 * [Ufer für alle, Hochparterre](https://www.hochparterre.ch/nachrichten/landschaftsarchitektur/ufer-fuer-alle)
 * [Nur ein Schweizer Ufer ist noch mehr in privater Hand als das des Zürichsees, Watson](https://www.watson.ch/schweiz/z%C3%BCrich/379474434-uferwege-so-zugaenglich-oder-eben-nicht-sind-die-schweizer-seeufer)
+* [Streit um den Zürichseeuferweg: Eine Analyse zeigt, wie stark verbaut die Seen in der Schweiz sind, NZZ](https://www.nzz.ch/visuals/so-verbaut-sind-schweizer-seen-ld.1819294)
 
 ### 2018
 * [So verbaut sind unsere Seen, Blick](https://www.blick.ch/storytelling/2018/seeanalyse/)
